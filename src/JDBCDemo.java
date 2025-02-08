@@ -129,10 +129,7 @@ public class JDBCDemo {
 		con.close();
 	}
 	
-	//Types of statement
-	//normal statement
-	//prepared statement
-	//callable statement call GetEmp()
+	
 	
 	//calling simple stored procedure
 	public static void sp() throws Exception{
